@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kinetic UI"
+  short_description: "Markayı koruyan, bol animasyonlu arayüz tasarımı"
+  default_prompt: "$kinetic-ui Bu arayüzü expressive yoğunlukta, bol animasyonlu bir tasarıma dönüştür; marka kimliğini koru ve açılış, scroll, mikro etkileşim ile durum geçişlerini birlikte ele al."
